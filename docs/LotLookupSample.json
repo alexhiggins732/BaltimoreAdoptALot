@@ -1,0 +1,36 @@
+{
+  "displayFieldName": "ST_NAME",
+  "fieldAliases": {
+    "BLOCKLOT": "BLOCKLOT",
+    "FULLADDR": "Full Address of Property",
+    "OBJECTID": "OBJECTID"
+  },
+  "fields": [
+    {
+      "name": "BLOCKLOT",
+      "type": "esriFieldTypeString",
+      "alias": "BLOCKLOT",
+      "length": 9
+    },
+    {
+      "name": "FULLADDR",
+      "type": "esriFieldTypeString",
+      "alias": "Full Address of Property",
+      "length": 48
+    },
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "BLOCKLOT": "3357 008",
+        "FULLADDR": " ",
+        "OBJECTID": 10082253
+      }
+    }
+  ]
+}

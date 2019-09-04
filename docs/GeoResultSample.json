@@ -1,0 +1,47 @@
+{
+  "displayFieldName": "ST_NAME",
+  "fieldAliases": {
+    "BLOCKLOT": "BLOCKLOT",
+    "FULLADDR": "Full Address of Property"
+  },
+  "geometryType": "esriGeometryPolygon",
+  "spatialReference": {
+    "wkid": 102100,
+    "latestWkid": 3857
+  },
+  "fields": [
+    {
+      "name": "BLOCKLOT",
+      "type": "esriFieldTypeString",
+      "alias": "BLOCKLOT",
+      "length": 9
+    },
+    {
+      "name": "FULLADDR",
+      "type": "esriFieldTypeString",
+      "alias": "Full Address of Property",
+      "length": 48
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "BLOCKLOT": "3357 008",
+        "FULLADDR": " "
+      },
+      "geometry": {
+        "rings": [
+          [
+            [ -8533337.47, 4770295.67 ],
+            [ -8533343.55, 4770285.72 ],
+            [ -8533353.41, 4770274.53 ],
+            [ -8533366.74, 4770298.75 ],
+            [ -8533416.35, 4770334.71 ],
+            [ -8533389.21, 4770351.04 ],
+            [ -8533337.47, 4770295.67 ]
+          ]
+        ]
+      }
+    }
+  ]
+}
